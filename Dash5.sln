@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dash5", "Dash5.csproj", "{E5AE3B98-5972-4338-B80D-93F489F12C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5AE3B98-5972-4338-B80D-93F489F12C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AE3B98-5972-4338-B80D-93F489F12C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AE3B98-5972-4338-B80D-93F489F12C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AE3B98-5972-4338-B80D-93F489F12C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029EFF02-129E-46A3-ADBC-93884CA810C4}
+	EndGlobalSection
+EndGlobal
